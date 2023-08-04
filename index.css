@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+  
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.281);
+    padding: 50px;
+    margin-top: 15px;
+    border-radius: 15px;
+}
+
+nav .immagine img{
+    width: 25%;
+}
+
+nav{
+    text-align: center;
+}
+
+nav h2{
+    color:lawngreen ;
+}
+
+.prenotazioni{
+    background-color: lawngreen;
+    padding: 10px;
+}
+
+.monopattino1, .monopattino2, .monopattino3{
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.800);
+}
+
+.propetario{
+    font-size: 20px;
+    color: white;
+}
+
+.batteria1{
+    width: 30%;
+    height: 30px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.batteria2{
+    width: 50%;
+    height: 30px;
+    background-color: lawngreen;
+    border-radius: 5px;
+}
+
+.batteria3{
+    width: 15%;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+}
